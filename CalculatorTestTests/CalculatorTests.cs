@@ -58,5 +58,11 @@ namespace Sandbox.Tests
             //Assert
             Assert.AreEqual(expectedResult, actualResult);
         }
+
+        [TestMethod()]
+        public void GangeTest()
+        {
+            Assert.Fail();
+        }
     }
 }

@@ -20,5 +20,11 @@ namespace Sandbox
             return result;
         }
 
+        public int Gange(int tal1, int tal2)
+        {
+            int result = tal1 * tal2;
+            return result;
+        }
+
     }
 }
